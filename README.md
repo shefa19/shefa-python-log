@@ -16,12 +16,12 @@ This repo showcases dynamic automation, creative branding, and weekly language u
 
 ## 📊 Language Usage Overview
 
-![C](https://img.shields.io/badge/C-36.79%25-blue?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-31.16%25-yellow?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-23.82%25-lightgrey?style=for-the-badge&logo=c++)
-![HTML](https://img.shields.io/badge/HTML-8.22%25-lightgrey?style=for-the-badge&logo=html)
+![C](https://img.shields.io/badge/C-35.91%25-blue?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-32.8%25-yellow?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-23.26%25-lightgrey?style=for-the-badge&logo=c++)
+![HTML](https://img.shields.io/badge/HTML-8.03%25-lightgrey?style=for-the-badge&logo=html)
 
-------
+------------
 
 ## 🧠 About Me
 
